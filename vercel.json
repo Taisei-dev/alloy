@@ -11,7 +11,7 @@
     },
     {
       "src": "public/assets/*",
-      "use": "@vercel/node"
+      "use": "@vercel/static"
     }
   ],
   "routes": [
